@@ -21,8 +21,6 @@ Responsive Design: The application is designed to work well on various screen si
 Installation
 To run the Netflix Clone locally on your machine, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/your-username/netflix-clone.git.
-Navigate to the project directory: cd netflix-clone.
 Usage
 Before running the application, ensure you have a modern web browser and a stable internet connection.
 
